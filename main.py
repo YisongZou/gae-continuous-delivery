@@ -9,7 +9,7 @@ def hello():
     print("I am inside hello world")
     return 'Hello World! CD.  This is auto-deploy.  Take 10'
 
-@app.route('/echo123/<name>')
+@app.route('/echo/<name>')
 def echo(name):
     print(f"This was placed in the url: new-{name}")
     val = {"new-name": name}
