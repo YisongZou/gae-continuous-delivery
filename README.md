@@ -11,7 +11,7 @@ gcloud app deploy
 Reference: [YouTube Walkthrough of GCP Auto-Deploy](https://www.youtube.com/watch?v=_TfWdOvQXwU)
 
 ### CD results
-(https://github.com/YisongZou/gae-continuous-delivery/blob/main/%E6%88%AA%E5%B1%8F2021-02-01%20%E4%B8%8B%E5%8D%883.54.59.png)
+![Screenshot](https://github.com/YisongZou/gae-continuous-delivery/blob/main/%E6%88%AA%E5%B1%8F2021-02-01%20%E4%B8%8B%E5%8D%883.54.59.png)
 
 
 ## Usage
