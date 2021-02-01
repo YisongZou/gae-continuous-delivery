@@ -8,10 +8,10 @@ gcloud app create
 gcloud app deploy
 ```
 
-[YouTube Walkthrough of GCP Auto-Deploy](https://www.youtube.com/watch?v=_TfWdOvQXwU)
+Reference: [YouTube Walkthrough of GCP Auto-Deploy](https://www.youtube.com/watch?v=_TfWdOvQXwU)
 
 
-## Gotchas/How To
+## Usage
 
 1.  Fork repo
 2.  Setup trigger in Cloud Build
