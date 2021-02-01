@@ -1,5 +1,5 @@
-# gae-continuous-delivery
-Automatically deploy code for Google App Engine
+# Continuous Delivery of Flask Application on GCP
+Create a Google App Engine application using GCP Cloud Shell environment
 
 ### Steps to run
 
