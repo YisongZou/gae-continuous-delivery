@@ -10,6 +10,9 @@ gcloud app deploy
 
 Reference: [YouTube Walkthrough of GCP Auto-Deploy](https://www.youtube.com/watch?v=_TfWdOvQXwU)
 
+### CD results
+![Screen Shot 2020-11-04 at 8 07 18 PM](https://user-images.githubusercontent.com/58792/98184850-610e5d80-1ed9-11eb-9950-6e225675ac2d.png)
+
 
 ## Usage
 
